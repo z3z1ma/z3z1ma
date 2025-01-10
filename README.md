@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[ ![z3z1ma](https://komarev.com/ghpvc/?username=z3z1ma)](https://github.com/z3z1ma/z3z1ma)
+
 - 🔭 I’m currently working on managing data systems at scale to deliver maximum business value at work and open source work to maximize developer delight outside work!
 - 🌱 I’m currently learning more Rust
 - 👯 I’m looking to collaborate on anything dealing with analytical data systems
